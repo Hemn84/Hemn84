@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hemn84
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me hemn2002qadri@gmail.com on Email or @hemn_qadri_84 on Instagram
 
 <!---
